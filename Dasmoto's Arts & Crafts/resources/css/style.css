@@ -1,0 +1,33 @@
+html {
+  font-family: Helvetica;
+}
+
+h5 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("file:///C:/Users/keegan.bilodeau/Desktop/projects/Dasmoto's%20Arts%20&%20Crafts/resources/images/pattern.jpeg");
+}
+
+.main h4 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.main p b {
+  color: blue;
+}
+
+.main #brushes h4 {
+  background-color: mediumspringgreen;
+}
+
+.main #frames h4 {
+  background-color: lightcoral;
+}
+
+.main #paint h4 {
+  background-color: skyblue;
+}
